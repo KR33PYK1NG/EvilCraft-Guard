@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "evilcraft-guard.refmap.json",
+    "package": "rmc.mixins.evilcraft_guard.inject",
+    "mixins": [
+        "EnchantmentPoisonTipMixin"
+    ]
+}
